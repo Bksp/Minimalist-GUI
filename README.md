@@ -1,8 +1,12 @@
 <div align="center">
 
 ![](.demos/showcase.png)
+![](.demos/BASE.png)
+![](.demos/GUI.png)
+![](.demos/recipes.png)
+![](.demos/storage_drawers.png)
+![](.demos/waystones.png)
 ![](.demos/mods_comp_quiver.png)
-![](.demos/Intro.png)
 ![](/.demos/Menu.png)
 
 # A minimalist Resource Pack for minecraft is in development. 
